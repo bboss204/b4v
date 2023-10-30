@@ -22,10 +22,16 @@ header {
     border-width: 2px;
     background-color: black; 
   }
-
 #logoHome{
   width: 50px;
   height: 50px;
+  margin: 0;
+  padding: 0;
+}
+#b4v{
+  margin: 0;
+  width: 100px;
+
 }
  /* Three image containers (use 25% for four, and 50% for two, etc) */
  .column {
