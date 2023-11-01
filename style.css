@@ -1,5 +1,6 @@
 body {
     background-color: white;
+    min-height: 100vh;
   }
   
 h1 {
@@ -34,4 +35,13 @@ header {
   margin: 0;
   width: 100px;
 
+}
+.img{
+  text-align: center;
+}
+img{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  text-align: center;
 }
