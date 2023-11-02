@@ -5,10 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "chrome",
+            "type": "firefox",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost:8080",
+            "url": "file:///C:/Users/bboss/Documents/GitHub/web_karima_site_basket/b4v/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
