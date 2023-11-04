@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: #fbfafa; /* Blanc */
-    color: #121212; /* noir */
-    border: 50px solid #ff0000; /* Bordure orange */
+    background-color: #fbfafa; 
+    color: #121212; 
+    border: 50px solid #ff0000; 
     padding: 10px;
 }
 h1 {
     text-align: center;
-    color: #505050; /* Blanc */
+    color: #505050; 
 }
 .content {
     max-width: 800px;
