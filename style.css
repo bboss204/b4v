@@ -34,8 +34,9 @@ img{
 }
 footer{
   border-style: solid;
-    background-color: black;
-    text-align: right;
+  background-color: black;
+  text-align: right;
+  margin-top: auto;
 }
 .img{
   text-align: center;
