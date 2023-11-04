@@ -14,7 +14,6 @@ h2{
   text-align: center;
 }
 p {
-    font-family: verdana;
     font-size: 20px;
     text-align: center;
   }
@@ -55,5 +54,4 @@ footer{
 #b4v{
   margin: 0;
   width: 100px;
-
 }
