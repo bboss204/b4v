@@ -39,6 +39,7 @@ img {
     height: auto;
     display: block;
     margin: auto;
+    filter: contrast(110%);
 }
 p {
     text-align: justify;
