@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f6f6f6; /* Blanc */
+    color: #373737; /*  */
+    border: 50px solid #ff8000; /* Bordure orange */
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    color: #373737; /* Blanc */
+}
+.content {
+    max-width: 800px;
+    margin: auto;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+p {
+    text-align: justify;
+}
