@@ -3,16 +3,13 @@ body {
     margin: 1%;
     border: 50px solid #002fff; 
     padding: 10px;
-    background-image: url('/images/goldenlogo.jpg');
+    background-image: url('images/goldenlogo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 h1 {
     text-align: center;
     color: #000000;
-}
-.content {
-    margin: auto;
 }
 img {
     max-width: 100%;
