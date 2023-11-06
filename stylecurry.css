@@ -1,9 +1,11 @@
 body {
     text-align: center;
-    margin: 20px;
-    background-color: white; 
+    margin: 1%;
     border: 50px solid #002fff; 
     padding: 10px;
+    background-image: url('/images/goldenlogo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1 {
     text-align: center;
@@ -31,6 +33,10 @@ header {
     justify-content: space-between;
     align-items: center;
 
+  }
+  video{
+    width: 50%;
+    height: 50%;
   }
 #logoHome{
   width: 50px;
