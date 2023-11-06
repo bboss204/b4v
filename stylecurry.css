@@ -6,10 +6,10 @@ body {
     background-image: url('images/goldenlogo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 h1 {
     text-align: center;
-    color: #000000;
 }
 img {
     max-width: 100%;

@@ -1,14 +1,19 @@
 body {
     margin: 20px;
-    border: 50px solid #ff0000; 
     padding: 10px;
     text-align: center;
+    background-image: url('images/bullslogo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
 }
 img {
     max-width: 100%;
     height: auto;
     display: block;
     margin: auto;
+    border-radius: 25%;
 }
 p {
     text-align: center;
@@ -23,8 +28,8 @@ header {
 
 }
 video{
-  /*width: 60%;
-  height: 100%;*/
+  width: 50%;
+  height: 50%;
 }
 #logoHome{
   width: 50px;
