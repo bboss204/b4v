@@ -1,17 +1,15 @@
 body {
-    font-family: Arial, sans-serif;
+    text-align: center;
     margin: 20px;
-    background-color: #fbfafa; /* Blanc */
-    color: #121212; /* noir */
-    border: 50px solid #002fff; /* Bordure orange */
+    background-color: white; 
+    border: 50px solid #002fff; 
     padding: 10px;
 }
 h1 {
     text-align: center;
-    color: #000000; /* Blanc */
+    color: #000000;
 }
 .content {
-    max-width: 800px;
     margin: auto;
 }
 img {
@@ -21,7 +19,9 @@ img {
     margin: auto;
 }
 p {
-    text-align: justify;
+    text-align: left;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 header {
     border-style: solid;
