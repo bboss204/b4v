@@ -12,6 +12,10 @@ header {
   justify-content: space-between;
   align-items: center;
 }
+video{
+  width: 50%;
+  height: 50%;
+}
 h1 {
     text-align: center;
 }
