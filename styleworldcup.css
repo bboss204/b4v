@@ -1,6 +1,5 @@
 body {
-  margin: 20px;
-  padding: 10px;
+  background: linear-gradient(90deg, rgb(3, 0, 7),rgb(8, 4, 67) rgb(28, 9, 196));
 }
 header {
   border-style: solid;
