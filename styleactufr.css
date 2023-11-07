@@ -6,7 +6,7 @@ body {
     background-repeat: no-repeat;
 }
 img {
-    max-width: 100%;
+    width: 30%;
     height: auto;
     display: block;
     margin: auto;
