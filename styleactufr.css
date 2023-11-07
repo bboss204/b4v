@@ -19,12 +19,30 @@ header {
     justify-content: space-between;
     align-items: center;
 }
-table, td, th {
+thead tr{
+    background-color: black;
+    color: white;
+}
+th td {
+    padding: 15px 20px;
     border: 1px solid;
-  }
+}
+tbody tr, td, th{
+    border: 1px solid black ;
+}
+tbody tr:nth-child(even){
+    background-color: rgba(49, 49, 53, 0.25);
+}
+tbody tr:nth-child(odd){
+    background-color: rgba(248, 245, 245, 0.25);
+}
 table {
-    width: 100%;
+    width:100%;
     border-collapse: collapse;
+    margin: 25px 0;
+    box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.15);
+    border: 2px solid black;
+    color: white;
 }
 .championnat{
     display: flex;
