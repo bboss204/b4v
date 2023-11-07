@@ -19,20 +19,16 @@ header {
   color: white;
 }
 body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #fbfafa;
-    color: #121212;
-    border: 50px solid rgb(0, 0, 0);
-    padding: 10px;
+  background: linear-gradient(260deg, rgb(11, 2, 65),rgb(8, 4, 67), rgb(28, 9, 196));
+  color: white;
+  font-family: "poppins";
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 h1 {
     text-align: center;
     color: #030000;
-}
-.content {
-    max-width: 800px;
-    margin: auto;
 }
 img {
     max-width: 100%;
