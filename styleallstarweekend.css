@@ -12,20 +12,26 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
   }
 h1 {
     text-align: center;
-    color: #030000;
 }
 img {
-    max-width: 100%;
+    width: 75%;
     height: auto;
     display: block;
     margin: auto;
 }
 p {
     text-align: justify;
+}
+.div_video{
+  display: flex;
+  flex-direction: row;
+}
+.video{
+  width: 35%;
+
 }
 #logoHome{
   width: 50px;
