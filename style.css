@@ -17,9 +17,6 @@ h2{
   padding-bottom: 1%;
   padding-top: 1%;
 }
-p {
-    text-align: center;
-}
 header {
     border-style: solid;
     background-color: black;
@@ -27,7 +24,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+    margin-bottom: 2%;
 }
 img{
   margin-left: 5%;
@@ -45,9 +42,17 @@ footer{
   border-style: solid;
   background-color: black;
   text-align: right;
-  margin-top: auto;
+  margin-top: 2%;
   border: 0px;
   padding-right: 1%;
+}
+.texte_page {
+  text-align: center;
+  background-color: rgba(45, 41, 41, 0.30);
+  border-radius: 50%;
+  padding: 2% 2% 2% 2%;
+  width: 50%;
+  margin: auto;
 }
 .img{
   text-align: center;
