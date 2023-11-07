@@ -24,7 +24,9 @@ img {
     border-radius: 15%;
 }
 p {
-    text-align: justify;
+    text-align: center;
+    width: 30%;
+    margin: auto;
 }
 #logoHome{
   width: 50px;
