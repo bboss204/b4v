@@ -10,10 +10,10 @@ img {
     display: block;
     margin: auto;
 }
-p {
+div {
     text-align: center;
-    margin-left: 10%;
-    margin-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 header {
     background-color: black;
@@ -21,6 +21,13 @@ header {
     justify-content: space-between;
     align-items: center;
 
+}
+table, td, th {
+    border: 1px solid;
+  }
+table {
+    width:100%;
+    border-collapse: collapse;
 }
 #logoHome {
     width: 50px;
@@ -32,11 +39,4 @@ header {
     margin: 0;
     width: 100px;
     color:white;
-}
-table, td, th {
-    border: 1px solid;
-  }
-table {
-    width:100%;
-    border-collapse: collapse;
 }
