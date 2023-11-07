@@ -1,18 +1,16 @@
 body {
     text-align: center;
     color: white;
-    background-image: url('images/carbone.jpg.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: rgb(123, 113, 113);
 }
 img {
     width: 30%;
     height: auto;
-    display: block;
-    margin: auto;
 }
-p {
+div {
     text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 header {
     background-color: black;
@@ -24,10 +22,8 @@ table, td, th {
     border: 1px solid;
   }
 table {
-    width: 80%;
+    width: 100%;
     border-collapse: collapse;
-    margin-left: 5%;
-    margin-right: 5%;
 }
 #logoHome{
     width: 50px;
@@ -39,4 +35,4 @@ table {
     margin: 0;
     width: 100px;
     color:white;
-  }
+}
