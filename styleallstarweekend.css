@@ -1,31 +1,22 @@
+body {
+  background-image: url("images/gold.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: "poppins";
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 15%;
+  font-family: "poppins";
+}
 header {
-    border-style: solid;
-    border-width: 2px;
     background-color: black;
     display: flex;
     justify-content: space-between;
     align-items: center;
 
   }
-#logoHome{
-  width: 50px;
-  height: 50px;
-  margin: 0;
-  padding: 0;
-}
-#b4v{
-  margin: 0;
-  width: 100px;
-  color: white;
-}
-body {
-  background: linear-gradient(260deg, rgb(11, 2, 65),rgb(8, 4, 67), rgb(28, 9, 196));
-  color: white;
-  font-family: "poppins";
-  text-align: center;
-  padding-left: 15%;
-  padding-right: 15%;
-}
 h1 {
     text-align: center;
     color: #030000;
@@ -38,4 +29,15 @@ img {
 }
 p {
     text-align: justify;
+}
+#logoHome{
+  width: 50px;
+  height: 50px;
+  margin: 0;
+  padding: 0;
+}
+#b4v{
+  margin: 0;
+  width: 100px;
+  color: white;
 }
