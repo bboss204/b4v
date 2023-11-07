@@ -3,7 +3,8 @@ body {
     color: white;
     background-color: rgb(123, 113, 113);
     font-family: "poppins";
-    
+    padding-left: 2%;
+    padding-right: 2%;   
 }
 img {
     border-radius: 5%;
