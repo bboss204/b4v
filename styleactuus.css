@@ -38,12 +38,17 @@ th td {
 tbody tr, td, th{
     border: 1px solid black ;
 }
+tbody tr:nth-child(even){
+    background-color: rgba(1, 7, 91, 0.15);
+}
+tbody tr:nth-child(odd){
+    background-color: rgba(134, 9, 9, 0.15);
+}
 table {
     width:100%;
     border-collapse: collapse;
     margin: 25px 0;
-    font-size: 0.9em;
-    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+    box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.15);
     border: 2px solid black;
 }
 #logoHome {
