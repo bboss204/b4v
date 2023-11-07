@@ -20,6 +20,15 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+table, td, th {
+    border: 1px solid;
+  }
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-left: 5%;
+    margin-right: 5%;
+}
 #logoHome{
     width: 50px;
     height: 50px;
@@ -31,12 +40,3 @@ header {
     width: 100px;
     color:white;
   }
-table, td, th {
-    border: 1px solid;
-  }
-table {
-    width: 80%;
-    border-collapse: collapse;
-    margin-left: 5%;
-    margin-right: 5%;
-}
