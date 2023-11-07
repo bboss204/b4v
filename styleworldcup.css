@@ -26,6 +26,7 @@ img {
 p {
     text-align: center;
     width: 30%;
+    margin: auto;
 }
 #logoHome{
   width: 50px;
