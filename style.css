@@ -7,19 +7,17 @@ body {
     background-size: cover;
     color: white;
     font-family: "poppins";
-  }
-  
+}
 h1 {
     color: white;
     text-align: center;
-  }
-  
+}  
 h2{
   text-align: center;
 }
 p {
     text-align: center;
-  }
+}
 header {
     border-style: solid;
     background-color: black;
@@ -28,11 +26,11 @@ header {
     justify-content: space-between;
     align-items: center;
 
-  }
+}
 img{
   margin-left: 5%;
   margin-right: 5%;
-  width: 10%;
+  width: 12%;
   height: 100%;
   filter: contrast(110%);
   border-radius: 5%;
