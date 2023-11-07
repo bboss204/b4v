@@ -1,7 +1,4 @@
 body {
-    margin: 20px;
-    border: 50px solid #000000; 
-    padding: 10px;
     text-align: center;
     color: white;
     background-image: url('images/carbone.jpg.jpg');
@@ -16,8 +13,8 @@ img {
 }
 p {
     text-align: center;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
     background-color: black;
 }
 header {
@@ -42,6 +39,6 @@ table, td, th {
     border: 1px solid;
   }
 table {
-    width:100%;
+    width:95%;
     border-collapse: collapse;
 }
