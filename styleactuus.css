@@ -5,6 +5,8 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 img {
     max-width: 100%;
@@ -23,17 +25,26 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
-table, td, th {
+thead tr{
+    background-color: black;
+    color: white;
+}
+th td {
+    padding: 15px 20px;
     border: 1px solid;
-  }
+    box-shadow: ;
+}
+tbody tr, td, th{
+    border: 1px solid black ;
+}
 table {
     width:100%;
     border-collapse: collapse;
     margin: 25px 0;
     font-size: 0.9em;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15);
+    border: 2px solid black;
 }
 #logoHome {
     width: 50px;
