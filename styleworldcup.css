@@ -16,11 +16,12 @@ h1 {
     text-align: center;
 }
 img {
-    max-width: 100%;
+    width: 50%;
     height: auto;
     display: block;
     margin: auto;
     filter: contrast(110%);
+    border-radius: 15%;
 }
 p {
     text-align: justify;
