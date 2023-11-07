@@ -46,6 +46,12 @@ footer{
   border: 0px;
   padding-right: 1%;
 }
+.actu{
+  background-color: rgb(240, 240, 207);
+  color: black;
+  padding: 1% 1% 1% 1%;
+  border-radius: 15%;
+}
 .texte_page {
   text-align: center;
   background-color: rgba(45, 41, 41, 0.30);
